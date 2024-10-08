@@ -102,6 +102,7 @@ export class UIScrlollComponent extends Component {
     private showEditPanel() {
         this.addButton.active = true
         this.nameBox.node.active = true
+        this.nameBox.string = ''
     }
 
     private hideEditPanel() {

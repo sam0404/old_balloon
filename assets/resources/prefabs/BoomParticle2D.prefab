@@ -3,7 +3,6 @@
     "__type__": "cc.Prefab",
     "_name": "BoomParticle2D",
     "_objFlags": 0,
-    "__editorExtras__": {},
     "_native": "",
     "data": {
       "__id__": 1
@@ -50,7 +49,6 @@
       "y": 1,
       "z": 1
     },
-    "_mobility": 0,
     "_layer": 33554432,
     "_euler": {
       "__type__": "cc.Vec3",
@@ -158,10 +156,7 @@
     "_preview": true,
     "preview": true,
     "_custom": true,
-    "_file": {
-      "__uuid__": "e17b4526-57a2-48d3-acc9-cf09f30aa138",
-      "__expectedType__": "cc.ParticleAsset"
-    },
+    "_file": null,
     "_spriteFrame": {
       "__uuid__": "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
       "__expectedType__": "cc.SpriteFrame"
@@ -211,7 +206,6 @@
       "__id__": 0
     },
     "fileId": "0bc0/nlKpKBoDkUms0xSSM",
-    "instance": null,
     "targetOverrides": null
   }
 ]
